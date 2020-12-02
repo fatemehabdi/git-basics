@@ -1,3 +1,8 @@
+---title new code 
+---- new project accelleration
+entity 
+port(a in )
+end; 
 
 Git Basics
 -------------
@@ -8,4 +13,6 @@ else c = 2
 then 
 
 while 1 = abs
+
+
 
