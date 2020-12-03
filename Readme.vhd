@@ -14,5 +14,7 @@ then
 
 while 1 = abs
 
-
+if e 
+else 
+end
 
