@@ -7,7 +7,7 @@ end;
 Git Basics
 -------------
 
- 
+ -- start the vss 
 if a> basics
  c <= a+b ; 
 then 
